@@ -11,7 +11,7 @@ class SelectColorViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("SelectColorView")
         // Do any additional setup after loading the view.
     }
     
